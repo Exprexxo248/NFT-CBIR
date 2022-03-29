@@ -1,2 +1,2 @@
-# MiAI_Image_Search
-Demo of Content Based Image Retrival (CBIR)
+# NFT-CBIR
+Demo for NFT-Content Based Image Retrival (CBIR)
